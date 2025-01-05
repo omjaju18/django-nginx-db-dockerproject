@@ -28,3 +28,16 @@ Install Nginx reverse proxy to make this application available
 
 `sudo apt-get update`
 `sudo apt install nginx`
+
+## Outputs
+
+![image](https://github.com/user-attachments/assets/91db04a6-4d12-4197-a5ce-2f9ae93546e6)
+
+![image](https://github.com/user-attachments/assets/dfd53150-7a6f-403e-b1ca-0352b8f5e151)
+
+![image](https://github.com/user-attachments/assets/4f3ecede-d9a0-4efa-85be-e591b44595a9)
+
+
+
+
+
