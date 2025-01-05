@@ -35,6 +35,9 @@ Install Nginx reverse proxy to make this application available
 
 ![image](https://github.com/user-attachments/assets/dfd53150-7a6f-403e-b1ca-0352b8f5e151)
 
+<img width="881" alt="image" src="https://github.com/user-attachments/assets/d0b29c5c-e5c5-4b6c-b23a-6e65cd950467" />
+
+
 ![image](https://github.com/user-attachments/assets/4f3ecede-d9a0-4efa-85be-e591b44595a9)
 
 
